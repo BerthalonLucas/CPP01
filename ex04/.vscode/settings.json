@@ -1,0 +1,9 @@
+{
+	"makefile.launchConfigurations": [
+		{
+			"cwd": "/home/lberthal/Desktop/CPP01/ex04",
+			"binaryPath": "/home/lberthal/Desktop/CPP01/ex04/replacer",
+			"binaryArgs": ["toto.txt", "bleu", "vert"],
+		}
+	]
+}
