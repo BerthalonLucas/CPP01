@@ -1,7 +1,6 @@
-NAME = phonebook
+NAME = Harl
 
-SRC = 		Contact.cpp \
-			PhoneBook.cpp \
+SRC =		Harl.cpp \
 			main.cpp \
 
 OBJS_DIR        = build
